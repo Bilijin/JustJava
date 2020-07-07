@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">ko oruko e</string>
+    <string name="view_order_summary">wo gbogbo nkan to fe ra</string>
+    <string name="toast2">O le ra ju ago aadota kofi lo</string>
+    <string name="toast1">O gbodo ra o kere ju ago kofi kan</string>
+    <string name="quantity">Iye</string>
+    <string name="chocolate">Sokoleeti</string>
+    <string name="order">Bere Fun</string>
+    <string name="orderSummary">nkan to fe ra lakotan</string>
+</resources>

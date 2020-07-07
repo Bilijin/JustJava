@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">entrez vous nom</string>
+    <string name="whipped_cream">creme fouettee</string>
+    <string name="chocolate">chocolat</string>
+    <string name="quantity">Quantite</string>
+    <string name="order">Acheter</string>
+    <string name="toast1">Vous ne pouvez pas acheter moins d\'une tasse de cafe</string>
+    <string name="toast2">Vous ne pouvez pas acheter plus de cinquante tasses de cafe</string>
+</resources>

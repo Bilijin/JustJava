@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name ="toppings">TOPPINGS</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+
+    <!-- hint text for the empty editText view for the user's name -->
+    <string name="name_hint">enter your name</string>
+
+    <!-- a minus sign -->
+    <string name="minus" translatable="false">-</string>
+    <string name="quantity">Quantity</string>
+
+    <!--the number one -->
+    <string name="one" translatable="false">1</string>
+
+    <!-- a plus sign -->
+    <string name="plus" translatable="false">+</string>
+    <string name="order">Order</string>
+
+    <!-- the text for the view order summary button -->
+    <string name="view_order_summary">View order summary</string>
+
+    <!-- the text for the order summary heading -->
+    <string name="orderSummary">Order Summary</string>
+
+    <!-- the text for the toast shown when the user tries to order less than 1 cup of coffee -->
+    <string name="toast1">You can\'t order less than one cup of coffee</string>
+
+    <!-- the text shown when the user tries to order more than 50 cups of coffee at a time -->
+    <string name="toast2">You can\'t order more than 50 cups of coffee at once</string>
+</resources>
